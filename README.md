@@ -11,4 +11,4 @@ For **STATS220**'s *Project* 1
 1. first thing
 2. second thing
 
-[My Project] (https://github.com/SituDaMan/Stats220Project1)
+[My Project](https://github.com/SituDaMan/Stats220Project1)
